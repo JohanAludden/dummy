@@ -4,3 +4,5 @@ This is a dummy project
 
 
 We can squash PRs
+
+And rebase
